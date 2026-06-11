@@ -62,7 +62,7 @@ Technologies Used
 Project Demonstration
 Demo Video: https://drive.google.com/file/d/1iTzus8E506-PxS8fr3ateA_ZEAg26j0V/view?usp=sharing 
 
-# Author
+# Authors
 - Naufal Arya Pradipta 235150300111028
 - Adhitya Noer Effendi 235150307111024
 - Fadlan Umar Rozikin 235150307111032
